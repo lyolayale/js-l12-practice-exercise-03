@@ -27,4 +27,5 @@ const displayContactList = function (data) {
   });
 };
 
+// ==== init program ====
 getRegistrationData();
